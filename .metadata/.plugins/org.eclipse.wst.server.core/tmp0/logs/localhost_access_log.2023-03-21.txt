@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Mar/2023:02:38:25 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Mar/2023:02:38:25 +0530] "GET /schooldatabasemanagement/WEB-INF/classes/com/bhanu/student_data_management/repository/TeacherRepositoryImp.java HTTP/1.1" 404 682
+127.0.0.1 - - [21/Mar/2023:02:38:25 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [21/Mar/2023:15:39:23 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/Mar/2023:15:39:23 +0530] "GET /schooldatabasemanagement/WEB-INF/classes/com/bhanu/student_data_management/service/StudentServiceImp.java HTTP/1.1" 404 682
+127.0.0.1 - - [21/Mar/2023:15:39:23 +0530] "GET /favicon.ico HTTP/1.1" 404 762

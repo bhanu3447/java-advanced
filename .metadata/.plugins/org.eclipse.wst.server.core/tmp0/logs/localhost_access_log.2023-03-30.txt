@@ -1,0 +1,15 @@
+127.0.0.1 - - [30/Mar/2023:00:00:09 +0530] "POST /RegistrationLogin/login HTTP/1.1" 200 3175
+127.0.0.1 - - [30/Mar/2023:00:00:09 +0530] "GET /RegistrationLogin/alert/dist/sweetalert.css HTTP/1.1" 404 806
+127.0.0.1 - - [30/Mar/2023:00:00:09 +0530] "GET /RegistrationLogin/vendor/jquery/jquery.min.js HTTP/1.1" 404 808
+127.0.0.1 - - [30/Mar/2023:00:23:15 +0530] "GET /RegistrationLogin/ HTTP/1.1" 302 -
+127.0.0.1 - - [30/Mar/2023:00:23:15 +0530] "GET /RegistrationLogin/login.jsp HTTP/1.1" 200 3173
+127.0.0.1 - - [30/Mar/2023:00:23:15 +0530] "GET /RegistrationLogin/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1" 200 70815
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/alert/dist/sweetalert.css HTTP/1.1" 404 806
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/js/main.js HTTP/1.1" 200 -
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/vendor/jquery/jquery.min.js HTTP/1.1" 404 808
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/css/style.css HTTP/1.1" 200 19686
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/images/signin-image.jpg HTTP/1.1" 200 21118
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 7832
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1" 200 7904
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /RegistrationLogin/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1" 200 38384
+127.0.0.1 - - [30/Mar/2023:00:23:16 +0530] "GET /favicon.ico HTTP/1.1" 404 762
